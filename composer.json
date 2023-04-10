@@ -1,0 +1,21 @@
+{
+    "name": "hans/gpt",
+    "description": "1",
+    "type": "1",
+    "require": {
+        "php": ">=8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hans\\Gpt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hans",
+            "email": "1078743005@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
